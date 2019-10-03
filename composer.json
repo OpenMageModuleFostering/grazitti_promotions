@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/Grazitti_Promotions",
+    "name": "openmage-module-fostering\/grazitti_promotions",
     "type": "magento-module",
-    "license": "OSL",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "Sign-up Promotion",
     "authors": [
