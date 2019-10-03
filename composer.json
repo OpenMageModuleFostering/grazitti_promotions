@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Grazitti_Promotions",
+    "name": "OpenMageModuleFostering\/Grazitti_Promotions",
     "type": "magento-module",
     "license": "OSL",
     "homepage": "",
     "description": "Sign-up Promotion",
     "authors": [
-    {
-        "name": "Mamta",
-        "email": "mamtas@grazitti.com"
-    }
-],
+        {
+            "name": "Mamta",
+            "email": "mamtas@grazitti.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
